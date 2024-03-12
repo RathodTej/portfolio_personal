@@ -999,8 +999,8 @@ section .container {
 }
 
 .portfolio-details .swiper-pagination .swiper-pagination-bullet {
-  width: 12px;
-  height: 12px;
+  /* width: 12px; */
+  /* height: 12px; */
   opacity: 1;
   background-color: rgba(255, 255, 255, 0.3);
 }
@@ -1186,8 +1186,15 @@ section .container {
     text-align: center;
     padding: 10px;
     background: rgba(0, 0, 0, 0.8);
+  
   }
 }
+/* @media (min-width:420px) {
+  .swiper-slide{
+    width:320px ;
+  
+  }
+} */
 
 .credits a {
   color: #18d26e;
