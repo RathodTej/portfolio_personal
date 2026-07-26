@@ -1204,3 +1204,7 @@ section .container {
 .credits a:hover {
   color: #fff;
 }
+
+.sub-info {
+    color: #9a9a9a;
+}
